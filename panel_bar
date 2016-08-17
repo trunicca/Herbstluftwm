@@ -1,0 +1,34 @@
+#!/bin/sh
+
+. /home/trunicca/.config/herbstluftwm/panel_config
+
+while read -r line ; do
+	case $line in
+		T*)
+			# clock output
+			clock="${AC}pop_cal${AB}%{B$CLR1}%{F$CLR7}  %{F-}%{B-} ${line#?} ${AE}"	
+			;;
+		C*)
+			cpu="%{B$CLR1}%{F$CLR7}  %{F-}%{B-} ${line#?} "	
+			;;
+		M*)
+			mem="%{B$CLR1}%{F$CLR7}  %{F-}%{B-} ${line#?}"	
+			;;
+		V*)
+			vol="${line#?}"
+			;;
+		S*)
+            wifi="${line#?}"
+			;;
+		B*)
+			batt="${line#?}"
+			;;
+		X*)
+			mpd="${line#?}"
+			;;
+		W*)
+			wm_infos="${line#?}"
+			;;
+	esac
+	printf "%s\n" "%{l}$mpd%{c}$wm_infos%{r}$cpu$SEP$mem$SEP$wifi$SEP$vol$SEP$batt$SEP$date$SEP$clock"
+done
