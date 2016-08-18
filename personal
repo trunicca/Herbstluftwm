@@ -1,0 +1,15 @@
+# Sets up mail box in your home folder  
+ set mbox_type=maildir  
+ set mbox="~/mail/inbox/"  
+ set spoolfile="~/mail/inbox/"  
+ set folder="~/mail/"  
+ set record="~/mail/sent/"  
+ set postponed="~/mail/postponed/"  
+ #Gmail account info  
+ set from = "geno.studio3@gmail.com"  
+ set realname = "Geno"  
+ set imap_user = "geno.studio3@gmail.com"  
+ set imap_pass = "Boutit1972"  
+ #SMTP Setup  
+ set smtp_url = "smtp://geno.studio3.gmail.com:587/"  
+ set smtp_pass = "Boutit1972" 

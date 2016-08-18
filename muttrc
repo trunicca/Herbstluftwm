@@ -1,0 +1,92 @@
+set config_charset=utf-8
+set locale=tr_TR.UTF-8
+
+# Settings
+
+#Source personal file
+source "~/.mutt/personal"
+
+## Directories and commands
+set header_cache 	 = "~/.mutt/cache"				# where to store headers
+set message_cachedir = "~/.mutt/bodies"				# where to store bodies
+set certificate_file = "~/.mutt/certificate"		# where to store cert
+set mailcap_path	 = "~/.mutt/mailcap"
+set editor			 = "vim +/^$ +:s/^$/\\\\r\\\\r/ +:noh -c 'normal! k' -c 'set nolist' -c 'redraw'" # use vim
+
+## General options
+set imap_check_subscribed
+set imap_keepalive 		= 300
+unset imap_passive
+set timeout          	= 60                # Idle time before scanning
+set mail_check       	= 60                # Minimum time between scans
+set beep_new								# bell on new emails
+set mbox_type			= Maildir
+unset move 									# Gmail does that
+unset mark_old 								# read/new is enough
+
+# Charset
+set charset=UTF-8
+
+# Sidebar options
+set sidebar_width=50
+set sidebar_visible=yes
+set sidebar_delim='  │ '
+set sidebar_sort=yes
+macro index b ‘<enter-command>toggle sidebar_visible<enter>’
+macro pager b ‘<enter-command>toggle sidebar_visible<enter>’
+bind index CP sidebar-prev
+bind index CN sidebar-next
+bind index CO sidebar-open
+bind pager CP sidebar-prev
+bind pager CN sidebar-next
+bind pager CO sidebar-open
+mailboxes =INBOX
+
+# Status bar
+set status_chars = " *%A"
+
+# Index
+set sort=threads
+set sort_browser=date
+set sort_aux=reverse-last-date-received
+
+# Pager
+set pager_index_lines   = 10                                       # show 10 messages when in pager
+set pager_context       = 5                                        # show five lines when skipping in pager
+set pager_stop                                                     # don't go to next message automatically
+set menu_scroll                                                    # scroll in menus
+set smart_wrap                                                     # don't split words
+set tilde                                                          # show tildes like in vim
+unset markers                                                      # no ugly plus signs
+auto_view text/html                                                # view html automatically
+alternative_order text/plain text/enriched text/html               # save html for last
+set quote_regexp        = "^( {0,4}[>|:#%]| {0,4}[a-z0-9]+[>|]+)+"
+
+# Remove "+" characters on newline
+unset markers
+
+# Formats
+set date_format         = "%m/%d"
+set index_format        = "[%Z]  %D  %-20.20F  %s"
+set status_format       = "-%r- %v ---[ Folder: %f, Msgs: %m%?n? New: %n?%?d? Del: %d?%?t? Tag: %t?%?l? %l? ]%?p?---- .: %p waiting to send :. ?--%>- (%P) ---"
+set alias_format        = "%4n %t %-20a  %r"
+
+# Header
+ignore *                                                           # ignore all headers
+unignore from: to: cc: date: subject:                              # show only these
+unhdr_order *
+hdr_order from: to: cc: date: subject:                             # and in this order
+
+# Key Bindings
+bind pager gg top
+bind pager G bottom
+bind attach,index gg first-entry
+bind attach,index G last-entry
+macro pager j <next-line>
+macro pager k <previous-line>
+bind index J next-page
+bind index K previous-page
+bind index "^" imap-fetch-mail
+# Colors
+source ~/.mutt/colors.muttrc
+

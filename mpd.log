@@ -1,0 +1,187 @@
+Aug 15 11:41 : client: [0] opened from [::1]:50244
+Aug 15 11:41 : alsa_mixer: Failed to read mixer for 'whatever name you want': no such mixer control: PCM
+Aug 15 11:42 : client: [0] closed
+Aug 15 11:43 : client: [1] opened from [::1]:50314
+Aug 15 11:44 : client: [1] closed
+Aug 15 11:49 : client: [2] opened from [::1]:50446
+Aug 15 11:49 : client: [2] closed
+Aug 15 11:50 : client: [3] opened from [::1]:50448
+Aug 15 11:50 : client: [3] closed
+Aug 15 12:20 : client: [4] opened from [::1]:51470
+Aug 15 12:20 : client: [4] closed
+Aug 16 03:31 : client: [0] opened from [::1]:49772
+Aug 16 03:31 : alsa_mixer: Failed to read mixer for 'whatever name you want': no such mixer control: PCM
+Aug 16 03:48 : client: [0] closed
+Aug 16 06:43 : client: [0] opened from [::1]:34606
+Aug 16 06:43 : alsa_mixer: Failed to read mixer for 'whatever name you want': no such mixer control: PCM
+Aug 16 06:47 : client: [0] closed
+Aug 16 06:47 : client: [1] opened from [::1]:34642
+Aug 16 06:51 : client: [1] closed
+Aug 16 06:51 : client: [2] opened from [::1]:34644
+Aug 16 06:52 : client: [2] closed
+Aug 16 06:53 : client: [0] opened from [::1]:34646
+Aug 16 06:53 : alsa_mixer: Failed to read mixer for 'whatever name you want': no such mixer control: PCM
+Aug 16 06:54 : update: added Project_Pat_Street_God3/16_-_Bigga_Rankin_Speaks--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/01_-_DJ_Scream_Intro--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/02_-_Rubberband_Check_ft_Rick_Ross_Rich_The_Kid_(prod_by_YK808_MAFIA)--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/15_-_Ill_Never_Change_produced_by_zaytoven--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/13_-_Load_Em_Up_produced_by_yk808_mafia--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/09_-_Gold_Teethes_Prodby_9Gotti--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/14_-_Bandz_Up_produced_yk808_mafia--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/04_-_I_Aint_Lying_produced_by_zaytoven--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/12_-_Internet_Gangstas--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/05_-_Bust_On_His_Ass_produced_by_Zaytoven--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/11_-_Im_On_My_Way_ft_juicyj_tory_lanez_kingray_produced_by_ciso--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/08_-_its_over_ft_Big_Trill_Coca_Vango_produced_by_Ric_and_Thaddeus_Big_Trill--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/17_-_Blue_Money_ft_kingray_produced_by_yk808--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/10_-_Fuck_Niggas_Jockin_produced_by_yk808_mafia--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/06_-_Bizness_produced_by_zaytoven--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Project_Pat_Street_God3/03_-_Thats_My_Dope_Naa_produced_by_yk808_mafia--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/10_-_2_Chainz-1_Yeezy_Boot_Prod_By_C4_Dun_Deal--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/03_-_2_Chainz-Ghetto_Prod_By_Mr_2-17--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/04_-_2_Chainz-Ounces_Back_Prod_By_DJ_Spinz--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/02_-_2_Chainz-Get_Out_The_Bed_Prod_By_TM_88--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/05_-_2_Chainz-Chirp_Prod_By_K_Swisha--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/06_-_2_Chainz-Kilo_Prod_By_DJ_Spinz--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/07_-_2_Chainz-Big_Amount_Feat_Drake_Prod_By_Buddah_Bless--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/08_-_2_Chainz-You_In_Luv_Wit_Her_Feat_YFN_Lucci_Prod_By_Bobby_Kritical--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/01_-_2_Chainz-Intro--(MixJoint.com).mp3
+Aug 16 06:54 : update: added 2_Chainz_-_Daniel_Son_Necklace_Don/09_-_2_Chainz-Blessing_Prod_By_DJ_Spinz--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-12 DARE.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-05 Hong Kong.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-16 Mr Softy's Balloon Race.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-10 Murdoc Is God.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-04 We Are Happy Landfill.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-06 Highway (Under Construction).mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-09 The Swagga.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-12 Stop The Dams.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-06 Feel Good Inc..mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-13 Fire Coming Out Of The Monkey's Head.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-03 Hongkongaton.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-02 People.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-02 Last Living Souls.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-04 O Green World.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-13 Samba At 13.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-03 Kids With Guns.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-08 Every Planet We Reach Is Dead.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-01 Intro.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-11 White Light.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-10 All Alone.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-01 68 State.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-07 Rockit.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-09 November Has Come.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-15 Demon Days.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-15 Mix 2.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-08 Bill Murray.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-07 El Mañana.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-14 Don't Get Lost In Heaven.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-11 Spitting Out The Demons.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/1-05 Dirty Harry.mp3
+Aug 16 06:54 : update: added Gorillaz - Demon Days/2-14 Film Trailer Music.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/09. Interlude 2.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/13. Zombie Walk (feat. King Savage).mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/02. Caliber.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/06. Interlude 1.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/12. Overnight.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/07. Talk Regardless.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/05. Monstas & Villains.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/10. Da Day.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/04. Shooters.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/14. Panda.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/11. Jet (feat. Pusha T).mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/08. Roll Wit Me.mp3
+Aug 16 06:54 : update: added Desiigner - New English/Desiigner - New English (2016) [320]/03. Make It Out.mp3
+Aug 16 06:54 : update: added Boosie Badazz -Thug Talk/01 Thug Talk.mp3
+Aug 16 06:54 : update: added Boosie Badazz -Thug Talk/13 Menace II Society.mp3
+Aug 16 06:54 : update: added Boosie Badazz -Thug Talk/17 Thug Prayer.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/08 With You (feat. PARTYNEXTDOOR).mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/09 Faithful (feat. Pimp C & dvsn).mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/06 Weston Road Flows.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/13 Grammys (feat. Future).mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/07 Redemption.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/02 9.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/16 Too Good (feat. Rihanna).mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/04 Feel No Ways.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/19 Views.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/03 U With Me_.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/14 Childs Play.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/18 Fire & Desire.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/11 Controlla.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/12 One Dance (feat. Wizkid & Kyla).mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/05 Hype.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/17 Summers Over Interlude.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/01 Keep the Family Close.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/15 Pop Style.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/10 Still Here.mp3
+Aug 16 06:54 : update: added Drake – Views/VIEWS/20 Hotline Bling.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/12. Successful.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/01. Devil Ass City.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/08. Baby Momma Blues.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/11. I Ain't Gonna Lie.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/03. Where the Real.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/09. New Shit.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/13. Women Men.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/02. My Money.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/07. Hate Me So Much.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/06. Since We Lost Y'all feat. Krayzie Bone.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/04. Naked Headed Lover.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/05. He Hoes.mp3
+Aug 16 06:54 : update: added Z-Ro – Drankin’ & Drivin/Z-Ro - Drankin' & Drivin'/10. Hostage.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 07. Highlights.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 13. Wolves.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 14. Frank's Track.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 20. Saint Pablo.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 01. Ultralight Beam.mp3
+Aug 16 06:54 : ffmpeg/mp3: Header missing
+Aug 16 06:54 : ffmpeg/mp3: decoding for stream 0 failed
+Aug 16 06:54 : ffmpeg/mp3: Could not find codec parameters for stream 0 (Audio: mp3, 0 channels, s16p): unspecified frame size
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 16. 30 Hours.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 15. Siiiiiiiiilver Surffffeeeeer Intermissi.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 02. Father Stretch My Hands Pt. 1.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 04. Famous.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 03. Pt. 2.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 12. Real Friends.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 06. Low Lights.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 05. Feedback.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 08. Freestyle 4.mp3
+Aug 16 06:54 : update: added Kanye West - The Life Of Pablo/Kanye West - The Life Of Pablo (June Update) [320]/Kanye West - 19. Fade.mp3
+Aug 16 06:54 : update: added Dej Loaf - All Jokes Aside/Dej Loaf - All Jokes Aside (2016)/05 - Keep Going (prod by DDS).mp3
+Aug 16 06:54 : update: added Dej Loaf - All Jokes Aside/Dej Loaf - All Jokes Aside (2016)/03 - Chase Mine (prod by KLVN & Carrington Brown).mp3
+Aug 16 06:54 : update: added Dej Loaf - All Jokes Aside/Dej Loaf - All Jokes Aside (2016)/04 - How (prod by Izze The Producer KLVN & iRocksays).mp3
+Aug 16 06:54 : update: added Dej Loaf - All Jokes Aside/Dej Loaf - All Jokes Aside (2016)/02 - Who Am I (prod by DDS).mp3
+Aug 16 06:54 : update: added CurrenSy_-_Stoned_On_Ocean/03._CurrenSy_-_Game_Tapes--(MixJoint.com).mp3
+Aug 16 06:54 : update: added CurrenSy_-_Stoned_On_Ocean/04._CurrenSy_-_Higher_Feat._Styles_P--(MixJoint.com).mp3
+Aug 16 06:54 : update: added CurrenSy_-_Stoned_On_Ocean/02._CurrenSy_-_Speedboat_Feat._Wiz_Khalifa--(MixJoint.com).mp3
+Aug 16 06:54 : update: added CurrenSy_-_Stoned_On_Ocean/05._CurrenSy_-_Stoned_On_Ocean--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/15. Multi Millionaire Laflare (Bonus Track).mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/06. Pop Music.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/01. No Sleep (Intro).mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/07. Guwop Home (feat. Young Thug).mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/11. 1st Day Out Tha Feds.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/08. Gucci Please.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/10. Richest N In The Room.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/03. Back On Road.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/04. Waybach.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/12. At Least a M.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/13. All My Children.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/05. P Print (feat. Kanye West).mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/14. Pick Up The Pieces (Outro).mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/02. Out Do Ya.mp3
+Aug 16 06:54 : update: added Gucci Mane - Everybody Looking/Gucci Mane - Everybody Looking (2016)/09. Robbed.mp3
+Aug 16 06:54 : update: added Juicy_J_-_Lit_In_Ceylon/06_-_Back_Out_(prod_by_TM88)--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Juicy_J_-_Lit_In_Ceylon/03_-_Blue_Bently_(prod_by_TM88)--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Juicy_J_-_Lit_In_Ceylon/05_-_Wet_(prod_by_Tarentino)--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Juicy_J_-_Lit_In_Ceylon/02_-_Mansion_(prod_by_TM88)--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Juicy_J_-_Lit_In_Ceylon/04_-_ACT_(prod_by_TM88)--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Juicy_J_-_Lit_In_Ceylon/07_-_Winnin_(prod_by_Tarentino)--(MixJoint.com).mp3
+Aug 16 06:54 : update: added Juicy_J_-_Lit_In_Ceylon/12_-_Control_(prod_by_Southside)--(MixJoint.com).mp3
+Aug 16 06:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 16 06:54 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 16 06:54 : client: [0] closed
+Aug 16 06:55 : client: [0] opened from [::1]:34666
+Aug 16 06:55 : alsa_mixer: Failed to read mixer for 'whatever name you want': no such mixer control: PCM
+Aug 16 06:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 16 06:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 16 06:55 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: moov atom not found
+Aug 16 07:01 : client: [0] closed

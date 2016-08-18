@@ -1,0 +1,66 @@
+# PACMAN 
+alias update='sudo pacman -Syyu'
+alias install='sudo pacman -S'
+alias search='pacman -Ss'
+alias remove='sudo pacman -Rs'
+alias clean='sudo pacman -Scc'
+alias orphan='sudo pacman -Rs $(pacman -Qtdq)'
+alias stayonmypc='sudo pacman -D --asexp'
+alias fuckoff='sudo pacman -D --asdep'
+alias pacinf='pacman -Si'
+alias searchlocal='pacman -Qs'
+alias listfiles='pacman -Ql'
+alias whoisorphan='pacman -Qdt'
+
+# YAOURT
+alias yorphan='yaourt -Qtd'
+alias aurin='yaourt -S'
+alias aurse='yaourt -Ss'
+alias aurup='yaourt -Syua'
+alias aurinen='LC_ALL=C yaourt -S'
+alias Y='yaourt'
+alias aurinf='yaourt -Si'
+
+#  COWER
+alias cowerp='cower --sort=popularity --color=always -s'
+alias cowerv='cower --sort=votes --color=always -s'
+
+# DOTFILES
+alias zshrc='vim ~/.zshrc'
+alias nvimrc='vim ~/.config/nvim/init.vim'
+alias awesomerc='vim ~/.config/awesome/rc.lua'
+
+# GIT
+alias gclone='git clone'
+alias gpull='git pull'
+alias gcommit='git commit -m'
+alias gpush='git push'
+alias gadd='git add'
+alias gh='git log --graph --full-history --all --color --pretty=tformat:"%x1b[31m%h%x09%x1b[32m%d%x1b[0m%x20%s%x20%x1b[33m(%an)%x1b[0m"'
+
+# MISC
+alias grep='/usr/bin/grep --color=always $GREP_OPTIONS'
+unset GREP_OPTIONS
+alias mkpkg='updpkgsums; makepkg -i'
+alias parasite='GTK_MODULES=gtkparasite'
+alias makemelaugh='fortuner2 -- question-answer-jokes'
+alias sessionerrors='echo "" > ~/.xsession-errors'
+alias music='mpd && mpdscribble'
+alias dlmp3='youtube-dl -x --audio-format mp3'
+alias killmusic='mpd --kill && killall mpdscribble'
+alias hc='herbstclient'
+alias unsplash='wget https://source.unsplash.com/random/1920x1080 -O 1920x1080.png'
+alias exe='chmod +x'
+alias gllm='gollum --live-preview --allow-uploads dir --mathjax .'
+alias clnerrors='echo "" > ~/.xsession-errors'
+alias fm='fc-match'
+# Colored cat output
+alias catc='pygmentize -g'
+
+# Shortcuts
+alias v='nvim'
+
+# Directories
+alias cd..='cd ..'
+alias cdgollum='cd /media/DATA/WEB/Gollum'
+alias cdbuild='cd /media/DATA/Packages/PKGBUILD'
